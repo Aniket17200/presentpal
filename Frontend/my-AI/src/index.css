@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@layer components {
+  .loader {
+    @apply border-solid border-t-transparent rounded-full;
+  }
+}
