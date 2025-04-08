@@ -162,4 +162,3 @@ FLASK_API_URL="https://1f31-34-125-88-152.ngrok-free.app"
 
 ---
 
-Let me know if you want a downloadable version of this README or need help with .env setup or Colab notebooks!
