@@ -5,8 +5,6 @@
 
 This project converts presentations into talking avatars using AI-powered audio and animation services. It consists of a **React + Vite frontend**, **Node.js backend**, and **multiple AI modules** running via Google Colab and tunneled using **ngrok**.
 
-# 🎥 Presentation to Talking Avatar Web App
-
 ## 🎬 Demo Video
 
 [![Watch the Demo](https://img.youtube.com/vi/sfwcfLuo6x0/0.jpg)](https://youtu.be/sfwcfLuo6x0)
